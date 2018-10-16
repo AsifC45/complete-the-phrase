@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  font-family: "Helvitica", sans-serif;
+}
+
+hr {
+  width: 600px;
+}
+
+button {
+  font-size: 20px;
+}
+
+#solution {
+  font-size: 36px;
+  width: 600px;
+  margin: 20px auto;
+  padding: 50px 10px;
+  background-color: grey;
+  color: white;
+}
